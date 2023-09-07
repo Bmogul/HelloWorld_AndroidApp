@@ -20,7 +20,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Kapture 2023-09-06 at 22 37 43](https://github.com/Bmogul/HelloWorld_AndroidApp/assets/98663272/61823173-1e1b-4a50-a865-d1467b7aeae3)
+![Kapture 2023-09-07 at 17 11 58](https://github.com/Bmogul/HelloWorld_AndroidApp/assets/98663272/d6065cd9-3043-43f2-8a74-d6443e0ea0f6)
+
 
 ## Notes
 
