@@ -19,11 +19,12 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+![Kapture 2023-09-06 at 22 37 43](https://github.com/Bmogul/HelloWorld_AndroidApp/assets/98663272/61823173-1e1b-4a50-a865-d1467b7aeae3)
 
 ## Notes
 
 The app was a straight forward simple hello world app. A good refresher in Android app development
-![Kapture 2023-09-06 at 22 37 43](https://github.com/Bmogul/HelloWorld_AndroidApp/assets/98663272/61823173-1e1b-4a50-a865-d1467b7aeae3)
+
 
 ## License
 
