@@ -4,4 +4,5 @@
     <string name="bird_image">Bird image</string>
     <string name="buttontext">Say Hello</string>
     <string name="toast_message">Hello there!</string>
+    <string name="hello_world">Hello World</string>
 </resources>
