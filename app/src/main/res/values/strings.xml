@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="INTRO_Burhanuddin">Hello my name is Burhanuddin</string>
+    <string name="bird_image">Bird image</string>
+    <string name="buttontext">Say Hello</string>
+    <string name="toast_message">Hello there!</string>
+</resources>
